@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Atualmente estou no oitavo período de Engenharia de Computação no Instituto Nacional de Telecomunicações (INATEL). Tenho interesse por desenvolvimento mobile, usando o framework Flutter e análise de dados, utilizando a linguagem Python.
+Atualmente estou no nono período de Engenharia de Computação no Instituto Nacional de Telecomunicações (INATEL). Tenho interesse por desenvolvimento mobile, usando o framework Flutter e data science, utilizando a linguagem Python.
 
 <!--
 **wesley-marcos/wesley-marcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
