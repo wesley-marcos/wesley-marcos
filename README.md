@@ -1,7 +1,14 @@
-### Hi there 👋
+## Hello 👋, I'm Wesley
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-marcos-borges/)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wesley.marcos@gec.inatel.br)
+---
+### About
+* 🏫 I’m on ninth period of graduation in Computer Engineer at **[Inatel](https://inatel.br/home/)**
+* 💻 I’m learning mobile development, through the Flutter framework, and data science, through Python.
 
-Atualmente estou no nono período de Engenharia de Computação no Instituto Nacional de Telecomunicações (INATEL). Tenho interesse por desenvolvimento mobile, usando o framework Flutter e data science, utilizando a linguagem Python.
+---
 
+### Github Statistics
 <div align="center">
   <a href="https://github.com/wesley-marcos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley-marcos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
