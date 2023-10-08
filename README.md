@@ -3,7 +3,7 @@
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wesley.marcos@gec.inatel.br)
 ---
 ### About
-* 🏫 I’m on ninth period of graduation in Computer Engineer at **[Inatel](https://inatel.br/home/)**
+* 🏫 I’m on tenth period of graduation in Computer Engineer at **[Inatel](https://inatel.br/home/)**
 * 💻 I’m learning mobile development, through the Flutter framework, and data science, through Python.
 
 ---
@@ -20,8 +20,6 @@
 
   <img align="center" alt="Balestra-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Balestra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Balestra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Balestra-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
         
 </div>
