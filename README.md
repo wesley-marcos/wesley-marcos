@@ -3,8 +3,10 @@
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wesley.marcos@gec.inatel.br)
 ---
 ### About
-* 🏫 I’m on tenth period of graduation in Computer Engineer at **[Inatel](https://inatel.br/home/)**
+* 🏫 I’m on tenth period of graduation in Computer Engineer at **[INATEL](https://inatel.br/home/)**
 * 💻 I’m learning mobile development, through the Flutter framework, and data science, through Python.
+* 🚧 I'm working at **[INATEL](https://inatel.br/home/)**, on BSS for Ericsson. Now, I'm learning Java to do my tasks.
+* 🎯 Always learning and growing.
 
 ---
 
@@ -18,9 +20,13 @@
   ### Languages and Tools
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Balestra-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Balestra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Balestra-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Dart" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="C++" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+
+  
         
 </div>
 
