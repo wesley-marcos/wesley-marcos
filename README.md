@@ -3,8 +3,8 @@
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wesley.marcos@gec.inatel.br)
 ---
 ### About
-* 🏫 I’m on tenth period of graduation in Computer Engineer at **[INATEL](https://inatel.br/home/)**
-* 💻 I’m learning mobile development, through the Flutter framework, and data science, through Python.
+* 🏫 I’m graduated in Computer Engineering at **[INATEL](https://inatel.br/home/)**.
+* 💻 I’m learned mobile development, through the Flutter framework, and data science, through Python.
 * 🚧 I'm working at **[INATEL](https://inatel.br/home/)**, on BSS for Ericsson. Now, I'm learning Java to do my tasks.
 * 🎯 Always learning and growing.
 
